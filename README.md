@@ -1,7 +1,7 @@
 # self-instagram-feed
 
-* install environment
-* `pip install -r requirement.txt`
+### install environment ###
+`pip install -r requirement.txt`
 
-* run local server
-* `python serv.py`
+### run local server ###
+`python serv.py`
